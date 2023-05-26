@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>New Window</h2>
-    <p>Slovenske nove okno.</p>
+    <p>Slovenske nove okno .</p>
   </div>
 </template>
 
